@@ -1,3 +1,9 @@
+Version : V0.0.3
+ChangeLog :
+1.add one sample for aht-10
+Autor : Mingfen XIAO(mingfen.xiao@qq.com)	
+Data  : 2019.01.05
+/*********************************************************************************************************************/
 Version : V0.0.2
 ChangeLog :
 1.add template files,fix scons build error.
