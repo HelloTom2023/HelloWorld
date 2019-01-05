@@ -33,6 +33,7 @@
 ".\build\stm32f10x_cec.o"
 ".\build\misc.o"
 ".\build\startup_stm32f10x_hd.o"
+".\build\aht10.o"
 ".\build\i2c_aht10_sample.o"
 ".\build\pin_beep_sample.o"
 ".\build\uart_sample.o"

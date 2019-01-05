@@ -147,6 +147,8 @@
 
 /* peripheral libraries and drivers */
 
+#define PKG_USING_AHT10
+#define PKG_USING_AHT10_LATEST_VERSION
 
 /* miscellaneous packages */
 
