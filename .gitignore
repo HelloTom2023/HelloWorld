@@ -16,6 +16,16 @@
 *.gch
 *.pch
 
+#eclipse files
+*.settings
+*.project
+*.cproject
+
+*.png
+*.uvguix.*
+*.saved_uv4
+*.uvoptx
+
 # Libraries
 *.lib
 *.a
